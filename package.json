@@ -1,0 +1,19 @@
+{
+  "name": "curso-api-rest-javascript-practico",
+  "version": "1.0.0",
+  "description": "Curso práctico de consumo de API REST con JavaScript.",
+  "main": "index.html",
+  "scripts": {
+    "test": "https://github.com/tovarqjavier/curso-api-rest-javascript-practico.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tovarqjavier/curso-api-rest-javascript-practico.git"
+  },
+  "author": "javiertovar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tovarqjavier/curso-api-rest-javascript-practico/issues"
+  },
+  "homepage": "https://github.com/tovarqjavier/curso-api-rest-javascript-practico#readme"
+}
